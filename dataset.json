@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in Florida, US",
+  "export_job_id": "7a48458f-6c96-4bd7-85d9-bf835e79ecef",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 231346,
+  "location_name": "Florida",
+  "location_type": "state",
+  "repo_name": "tech-ready-restaurants-in-florida-us-sample-231346",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/231346/beamstation_231346_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_pct": 9.86,
+  "sample_records": 58,
+  "sample_sha256": "78b095a479ce7547e19291e7b7a0d22b0e9f39fab08347fdc6b864ae9ac1dc76",
+  "sample_size_bytes": 242245,
+  "total_records": 588,
+  "updated_at": "2026-04-08T05:18:52.793105+00:00"
+}
