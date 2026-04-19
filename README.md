@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in Florida, US
 
-> Free BeamStation sample export with 58 rows and masked direct-contact fields.
+> Free BeamStation sample export with 31 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `231346` |
 | Location | Florida |
 | Category | Restaurants |
-| Full dataset size | 588 records |
-| Free sample size | 58 records (9.86%) |
-| Last export | 2026-04-08T05:18:52.793105+00:00 |
+| Full dataset size | 319 records |
+| Free sample size | 31 records (9.72%) |
+| Last export | 2026-04-15T09:30:03.592936+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-florida-us-sample-231346/releases/download/sample-latest/beamstation_231346_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
