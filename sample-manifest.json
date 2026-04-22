@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b49af0bb-f137-4c36-a61b-c39774632611",
+  "export_job_id": "09953207-c2d8-4c91-84fc-f2a805e3f68d",
   "id_short": 231346,
-  "published_at": "2026-04-19T07:23:36Z",
+  "published_at": "2026-04-22T19:24:53Z",
   "repo_name": "tech-ready-restaurants-in-florida-us-sample-231346",
   "sample_asset_name": "beamstation_231346_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/231346/beamstation_231346_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 31,
-  "sample_sha256": "0c913f87340d412be36961e006bb8df7361b81d5777ec0c119b14122271c1a98",
-  "sample_size_bytes": 135788,
-  "total_records": 319
+  "sample_records": 15,
+  "sample_sha256": "4761fe6dc26d947d9a2b8d3bb15f0a2406ab5ecaa79ebc2dcebc72b21964d672",
+  "sample_size_bytes": 74567,
+  "total_records": 153
 }
